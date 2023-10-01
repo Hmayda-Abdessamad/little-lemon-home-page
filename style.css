@@ -1,0 +1,22 @@
+body{
+    background: url("rusty-weathered-wall-explodes-with-creativity-generated-by-ai.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    overflow-y: scroll;
+   
+
+  
+}
+
+#banner{
+ background: url("pasta.jpg");
+ background-size: cover;
+ background-repeat: repeat;
+}
+
+body footer hr {
+    border: 5px solid white;
+}
+
